@@ -86,7 +86,7 @@ include('./include/header.php')
     <section class="section-4 py-5">
         <div class="container">
             <div class="inner">
-                <h2>How to get started.</h2>
+                <h2>How to are you my students</h2>
                 <p>Lorem ipsum dolor sit amet consectetur. Sed a risus amet auctor felis molestie in in.
                     Accumsan praesent egestas tincidunt leo.</p>
                 <strong><a href="contactus.php">Contact us</a> <i class="fa-solid fa-chevron-up"></i></strong>
